@@ -1,6 +1,7 @@
 ### goals of this learning project
 
 - practice and become comfortable with BDD
+- practice and become comfortable with trunk based development (I know, it's only one person working on the project, but we're working with what we have)
 - practice and become comfortable with the jest testing framework
 - practice and become comfortable with the react testing library
 - build a simple REST backend in typescript
