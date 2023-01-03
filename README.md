@@ -10,3 +10,7 @@
   - the implementation should be such that, switching from the REST backend to the graphql backend is trivial
 - practice and become comfortable with best practices
 - practice and become comfortable with radix
+- supertest
+
+- can we add a third backend? trpc?
+- it'll mean we'll need a frontend client for it as well, most likely
