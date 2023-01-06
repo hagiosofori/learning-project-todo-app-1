@@ -14,3 +14,6 @@
 
 - can we add a third backend? trpc?
 - it'll mean we'll need a frontend client for it as well, most likely
+
+- cypress
+- can we have property based testing?
